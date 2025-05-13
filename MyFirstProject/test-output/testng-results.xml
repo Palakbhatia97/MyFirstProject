@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-05-13T23:54:00 IST" name="Default suite" finished-at="2025-05-13T23:56:05 IST" duration-ms="125015">
+    <groups>
+    </groups>
+    <test started-at="2025-05-13T23:54:00 IST" name="Default test" finished-at="2025-05-13T23:56:05 IST" duration-ms="125015">
+      <class name="orangeHRM_project.NewTest">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:orangeHRM_project.NewTest@37efd131]" started-at="2025-05-13T23:54:00 IST" name="beforeClass" finished-at="2025-05-13T23:54:04 IST" duration-ms="3997" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method signature="f()[pri:0, instance:orangeHRM_project.NewTest@37efd131]" started-at="2025-05-13T23:54:04 IST" name="f" finished-at="2025-05-13T23:54:08 IST" duration-ms="4110" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method signature="Admin()[pri:1, instance:orangeHRM_project.NewTest@37efd131]" started-at="2025-05-13T23:54:08 IST" name="Admin" finished-at="2025-05-13T23:54:25 IST" duration-ms="16900" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Admin -->
+        <test-method signature="PIM()[pri:2, instance:orangeHRM_project.NewTest@37efd131]" started-at="2025-05-13T23:54:25 IST" name="PIM" finished-at="2025-05-13T23:55:32 IST" duration-ms="67292" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PIM -->
+        <test-method signature="Time()[pri:3, instance:orangeHRM_project.NewTest@37efd131]" started-at="2025-05-13T23:55:32 IST" name="Time" finished-at="2025-05-13T23:55:39 IST" duration-ms="7154" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Time -->
+        <test-method signature="Leave()[pri:4, instance:orangeHRM_project.NewTest@37efd131]" started-at="2025-05-13T23:55:39 IST" name="Leave" finished-at="2025-05-13T23:55:44 IST" duration-ms="5078" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Leave -->
+        <test-method signature="Recruitment()[pri:5, instance:orangeHRM_project.NewTest@37efd131]" started-at="2025-05-13T23:55:44 IST" name="Recruitment" finished-at="2025-05-13T23:55:50 IST" duration-ms="5985" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Recruitment -->
+        <test-method signature="Claim()[pri:6, instance:orangeHRM_project.NewTest@37efd131]" started-at="2025-05-13T23:55:50 IST" name="Claim" finished-at="2025-05-13T23:55:59 IST" duration-ms="9259" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Claim -->
+        <test-method signature="Directory()[pri:7, instance:orangeHRM_project.NewTest@37efd131]" started-at="2025-05-13T23:55:59 IST" name="Directory" finished-at="2025-05-13T23:56:04 IST" duration-ms="4228" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Directory -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:orangeHRM_project.NewTest@37efd131]" started-at="2025-05-13T23:56:04 IST" name="afterClass" finished-at="2025-05-13T23:56:05 IST" duration-ms="951" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- orangeHRM_project.NewTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
