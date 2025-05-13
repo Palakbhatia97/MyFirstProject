@@ -31,6 +31,11 @@ This is a Selenium-based automation testing project for the [OrangeHRM](https://
 1. Clone this repository:
    ```bash
    git clone https://github.com/Palakbhatia97/MyFirstProject.git
+   1. Open in Eclipse:
+       *Import as Maven Project
+       *Wait for dependencies to load
+   2. Run the tests:
+      * Right click on test class -> Run As -> TestNG Test
 
 ## Author
  Palak Bhatia
